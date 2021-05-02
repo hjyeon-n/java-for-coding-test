@@ -54,3 +54,23 @@
 | [부품 찾기](https://github.com/hjyeon-n/java-for-coding-test/blob/master/BinarySearch/hjyeon-n/%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0.java) | [부품 찾기](https://github.com/hjyeon-n/java-for-coding-test/blob/master/BinarySearch/kong0527/%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0.java) | [부품 찾기](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.java) |
 | [떡볶이 떡 만들기](https://github.com/hjyeon-n/java-for-coding-test/blob/master/BinarySearch/hjyeon-n/%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [떡볶이 떡 만들기](https://github.com/hjyeon-n/java-for-coding-test/blob/master/BinarySearch/kong0527/%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [떡볶이 떡 만들기](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.java) |
 
+<br>
+
+#### 6. Dynamic Programming
+
+| hjyeon-n                                                     | kong0527 | 책 제공 코드                                                 |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [1로 만들기](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Dynamic%20Programming/hjyeon-n/%EA%B0%9C%EB%AF%B8%20%EC%A0%84%EC%82%AC.java) |          | [1로 만들기](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.java) |
+| [개미 전사](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Dynamic%20Programming/hjyeon-n/%EA%B0%9C%EB%AF%B8%20%EC%A0%84%EC%82%AC.java) |          | [개미 전사](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.java) |
+| [바닥 공사](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Dynamic%20Programming/hjyeon-n/%EB%B0%94%EB%8B%A5%20%EA%B3%B5%EC%82%AC.java) |          | [바닥 공사](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.java) |
+| [효율적인 화폐 구성](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Dynamic%20Programming/hjyeon-n/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%99%94%ED%8F%90%20%EA%B5%AC%EC%84%B1.java) |          | [효율적인 화폐 구성](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.java) |
+
+<br>
+
+#### 7.  Shortest Path
+
+| hjyeon-n                                                     | kong0527 | 책 제공 코드                                                 |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [미래 도시](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/hjyeon-n/%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C.java) |          | [미래 도시](https://github.com/ndb796/python-for-coding-test/blob/master/9/4.java) |
+| [전보](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/hjyeon-n/%EC%A0%84%EB%B3%B4.java) |          | [전보](https://github.com/ndb796/python-for-coding-test/blob/master/9/5.java) |
+
