@@ -15,14 +15,23 @@ public class Main {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String str = br.readLine();
 
-		int zero = -1;
-		int one = -1;
+		int zero = 0;
+		int one = 0;
 
 		int prev = str.charAt(0) - '0';
-		for (int i = 1; i < str.length(); i++) {
-			int n = str.charAt(i) - '0';
-			if(n != prev) {
-				if (n == 0) {
+		
+		if (prev == 1) {
+			zero++;
+		}
+		else {
+			one++;
+		}
+		
+		for (int i = 0; i < str.length() - 1; i++) {
+			int n1 = str.charAt(i) - '0';
+			int n2 = str.charAt(i + 1) - '0'; 
+			if(n1 != n2) {
+				if (n2 == 0) {
 					one++;
 				}
 				else {
@@ -31,17 +40,6 @@ public class Main {
 			}
 		}
 
-		int answer = 0;
-		if (zero != -1 && one != -1) {
-			answer = Math.min(zero, one);
-		}
-		else if (zero == -1) {
-			answer = one;
-		}
-		else if (one == -1) {
-			answer = zero;
-		}
-		
-		System.out.println(answer);
+		System.out.println(Math.min(one, zero));
 	}	
 }
