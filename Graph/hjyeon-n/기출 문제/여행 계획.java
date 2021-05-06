@@ -54,7 +54,10 @@ public class Main {
 	}
 	
 	public static void union(int v1, int v2) {
-		if (find(v1) > find(v2)) {
+		v1 = find(v1);
+		v2 = find(v2);
+		
+		if (v1 > v2) {
 			arr[v1] = v2;
 		}
 		else {
