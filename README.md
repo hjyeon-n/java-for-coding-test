@@ -67,5 +67,5 @@
 | hjyeon-n                                                     | kong0527 | 책 제공 코드                                                 |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | [미래 도시](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/hjyeon-n/%EC%97%B0%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C.java) |          | [미래 도시](https://github.com/ndb796/python-for-coding-test/blob/master/9/4.java) |
-| [전보](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/hjyeon-n/%EC%97%B0%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/%EC%A0%84%EB%B3%B4.java) |          | [전보](https://github.com/ndb796/python-for-coding-test/blob/master/9/5.java) |
+| [전보](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/hjyeon-n/%EC%97%B0%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/%EC%A0%84%EB%B3%B4.java) |    [전보](https://github.com/hjyeon-n/java-for-coding-test/blob/master/Shortest%20Path/kong0527/%EC%A0%84%EB%B3%B4.java)      | [전보](https://github.com/ndb796/python-for-coding-test/blob/master/9/5.java) |
 
