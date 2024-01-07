@@ -35,4 +35,18 @@ public class Main {
 
         System.out.println(answer);
     }
+        // ver. 2022
+        // 배열을 오름차순으로 정렬
+        Arrays.sort(arr);
+
+        // 한 번으로 도는 세트의 합을 구함
+        int nums = k * arr[n-1] + arr[n-2];
+        // 한 번의 세트가 돌 수 있는 횟수만큼 구함
+        answer += m / (k + 1) * nums;
+        // 나머지 만큼 더 더함
+        answer += m % (k + 1) * arr[n-1];
+
+        System.out.println(answer);
+
+
 }
