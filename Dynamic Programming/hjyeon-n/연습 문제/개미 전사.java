@@ -7,9 +7,9 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		//		¼Ò¿ä ½Ã°£ : 8ºĞ
-		//		Ã¼°¨ ³­ÀÌµµ : ½Ç¹ö2
-		//		¡Ú¡Ú¡Ú¡Ú¡Ú
+		//		ì†Œìš” ì‹œê°„ : 8ë¶„
+		//		ì²´ê° ë‚œì´ë„ : ì‹¤ë²„2
+		//		â˜…â˜…â˜…â˜…â˜…
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -23,10 +23,10 @@ public class Main {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		dp[0] = arr[0];
-		dp[1] = Math.max(dp[0], arr[1]);
+		dp[1] = arr[1];
+		dp[2] = Math.max(dp[1], arr[2]);
 
-		for (int i = 2; i <= N; i++) {
+		for (int i = 3; i <= N; i++) {
 			dp[i] = Math.max(dp[i - 1], dp[i - 2] + arr[i]);
 		}
 
